@@ -1,0 +1,32 @@
+# github.com/davecgh/go-spew v1.1.1
+github.com/davecgh/go-spew/spew
+# github.com/go-redis/redis v6.14.2-0.20180920103551-69445c6e87e0+incompatible
+## explicit
+github.com/go-redis/redis
+github.com/go-redis/redis/internal
+github.com/go-redis/redis/internal/consistenthash
+github.com/go-redis/redis/internal/hashtag
+github.com/go-redis/redis/internal/pool
+github.com/go-redis/redis/internal/proto
+github.com/go-redis/redis/internal/singleflight
+github.com/go-redis/redis/internal/util
+# github.com/onsi/ginkgo v1.16.5
+## explicit
+# github.com/onsi/gomega v1.18.1
+## explicit
+# github.com/pkg/errors v0.8.0
+## explicit
+github.com/pkg/errors
+# github.com/pmezard/go-difflib v1.0.0
+github.com/pmezard/go-difflib/difflib
+# github.com/redis-go/redcon v0.2.0
+## explicit
+github.com/redis-go/redcon
+# github.com/redis-go/redis v0.0.0-20190129163758-e7bb29b08926
+## explicit
+github.com/redis-go/redis
+# github.com/stretchr/testify v1.5.1
+## explicit
+github.com/stretchr/testify/assert
+# gopkg.in/yaml.v2 v2.4.0
+gopkg.in/yaml.v2
